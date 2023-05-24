@@ -1,0 +1,23 @@
+input {
+  margin: 5px 10px;
+  width: 75%;
+}
+label{
+    width: 25%;
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+hr{
+    border-color: black;
+    width: 100%;
+}
